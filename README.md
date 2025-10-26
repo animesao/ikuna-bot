@@ -78,7 +78,7 @@
 ### 1. Клонирование Репозитория
 
 ```bash
-git clone https://github.com/your-username/Ikuna-bot-main.git
+git clone https://github.com/animesao/ikuna-bot.git
 cd Ikuna-bot-main
 ```
 
@@ -180,22 +180,6 @@ Ikuna-bot-main/
 - **Безопасность**: Проверка прав и валидация данных
 - **Легкая настройка**: Интуитивный интерфейс конфигурации
 
-## 📈 Развертывание на GitHub
-
-### Создание Репозитория
-
-1. Создайте новый репозиторий на GitHub
-2. Загрузите код проекта:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/Ikuna-bot-main.git
-git push -u origin main
-```
-
 ### Автоматическое Развертывание
 
 Для автоматического развертывания вы можете использовать:
@@ -228,14 +212,10 @@ git push -u origin main
 
 ## 📞 Поддержка и Контакты
 
-- **Discord Сервер Поддержки**: [Присоединиться](https://discord.gg/KurkaJwp)
-- **Telegram**: [@Kirill_voxholl](https://t.me/Kirill_voxholl)
+- **Discord Сервер Поддержки**: [Присоединиться](http://dsc.gg/alfheimguide)
 - **Сайт**: [ikuna.ru](https://ikuna.ru)
 - **Top.gg**: [Оценить бота](https://top.gg/bot/1290719504237723688)
 - **Boticord**: [Добавить оценку](https://boticord.top/bot/1290719504237723688)
-
-### Разработчики
-- **Kirill Voxholl** (@kirill_voxholl, @prd.yt)
 
 ## 📜 Лицензия
 
